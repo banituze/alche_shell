@@ -1,1 +1,1 @@
-Shell loops conditions and parsing 
+Shell, Loops, conditions and parsing 
